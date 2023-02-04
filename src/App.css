@@ -1,0 +1,71 @@
+.App {
+  text-align: center;
+  height: 100vh;
+}
+.App {
+  text-align: center;
+  display: flex;
+  padding-left: auto;
+  background-color: rgb(154, 146, 161);
+  padding: 0 5rem;
+}
+
+.card-content{
+  width: 28%;
+  border: 3px solid black;
+  margin: 5rem auto;
+  border-radius: 10px;
+  height: 70%;
+  box-shadow: 3px 3px 3px black;
+}
+.card-content:hover{
+  margin-top: 4.8rem;
+}
+p{
+  text-align: left;
+  margin-left: 1rem;
+}
+hr{
+  width: 90%;
+  
+}
+.btn{
+  width: 60%;
+  height: 3rem;
+  margin-bottom: 1rem;
+  border-radius: 2rem;
+  font-weight: bold;
+  font-size: large;
+}
+.btn:hover{
+  background-color: black;
+  color:burlywood;
+
+}
+
+
+
+.private0{
+  color:dimgray;
+}
+.phoneSupport0{
+  color:dimgray;
+}
+.subdomain0{
+  color:dimgray;
+}
+.status0{
+  color:dimgray;
+}
+.status1{
+  color:dimgray;
+}
+.user1{
+  font-weight: bold;
+}
+.user2{
+  font-weight: bold;
+}
+.subdomain2>span{
+  font-weight: bold;
+}
